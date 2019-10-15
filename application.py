@@ -4,7 +4,7 @@ import dash_core_components as dcc
 import plotly.graph_objects as go
 import time
 import wave
-import speech_sample
+#import speech_sample
 #import intent_sample
 #import translation_sample
 
