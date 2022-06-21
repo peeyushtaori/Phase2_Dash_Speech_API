@@ -37,7 +37,7 @@ more-itertools==7.2.0
 mysql-connector-python==8.0.17
 nltk==3.4.5
 numexpr==2.7.0
-numpy==1.17.2
+numpy==1.22.0
 packaging==19.2
 pandas==0.25.1
 plotly==4.1.1
